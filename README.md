@@ -1,7 +1,8 @@
 # ScrumHelper
-Scrum management website using MEAN stack
 
-Internet practical part of Masters studies.
+Web-application for Scrum management developed using MEAN stack (Internet practical)
+
+Developers: 
 
 Asha Joshi, asha.joshi@gmx.de
 
